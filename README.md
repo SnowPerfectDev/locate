@@ -1,4 +1,4 @@
-## Exemplos de Uso do Locate
+### Exemplos de Uso do Locate
 
 1. **Localizar um Comando:** Para encontrar a localização de um comando específico, digite: `$ locate.sh ls` (Saída: `/bin/ls`)
 
